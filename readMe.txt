@@ -1,7 +1,6 @@
-HOW_TO_RUN_THIS_APPLICATION
-Open terminal in main folder type node app.js.
-
-
+DONORS_HUB
+How to run this application
+Open terminal in main folder run-> node app.js.
 
 In order to run this application
 Create a CLIENT-ID And Client-Secret in Google Developer Console
